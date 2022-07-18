@@ -1,1 +1,29 @@
-/* Write your CSS here! */
+#mainHeading{
+    color: red;
+}
+.funParagraph{
+    color: green;
+}
+header{
+    padding: 20px;
+    text-align: center;
+    background-color: lightcoral;
+    font-size: 30px;
+}
+
+body{
+    margin: 8px;
+    display: block;
+}
+
+main{
+    background-color: aliceblue;
+}
+
+article{
+    margin: 10px 75px 75px 100px;
+}
+
+footer{
+    text-align: right;
+}
